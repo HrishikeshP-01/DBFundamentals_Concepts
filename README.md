@@ -12,3 +12,17 @@
 - *Tree* – binary trees, heaps, space
 - *Hash* – distributed hash table, hash tree
 - *Graphs* – decision trees, directed, acyclic graphs
+
+
+## Storage of data throughout time:
+- Punch cards
+- Magnetic drums
+- Magnetic tapes & drives
+- Hard disks
+- Floppy disks
+- Compact disks (CD)
+- Zip drives
+- Digital video disks (DVDs)
+- Secure Digital (SD) cards
+- Universal Serial Bus (USB) flash drives
+- Cloud storage
