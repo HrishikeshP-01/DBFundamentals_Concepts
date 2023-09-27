@@ -37,3 +37,12 @@
 *Oracle DB* – one of the oldest & most reliable
 *SQL Server* – Microsoft, competitor of Oracle DB
 *Postgres* – free, open source & easy to work with
+
+## Advantages of DBMS
+- Data transfer – transfer data from 1 DB to another
+- Security
+- Integration – ensures all data is consistent & provides a bird’s eye view of the organization
+- Increases productivity
+- Decision making is lot easier
+- Ease of use
+
