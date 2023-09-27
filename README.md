@@ -56,4 +56,13 @@
 - *Integrity* – ensures data is accurate, consistent
 - *Metadata* – provides us data about the database
 
+## DBMS types
+- *Hierarchical* – organizes data like the branches of a tree
+- *Distributed* (a.k.a network) – extension of hierarchical DBs where data has a many-to-many relationship & utilizes a network
+- *Relational* – organizes data as logically independent tables
+- *Object* – stores data as objects. So we can store not only the values & properties of the objects but also the operations on that objects.
+
+Objects with related values & operations can be grouped together as classes
+
+
 
