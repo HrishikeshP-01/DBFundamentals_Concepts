@@ -64,5 +64,16 @@
 
 Objects with related values & operations can be grouped together as classes
 
+## Hierarchical  DB
+- Data is ordered in a tree-like structure
+- There is a one-to-many relationship between records
+- Eg: organizational chart – a parent record can have several child nodes
+
+## Distributed DB
+- Good for horizontal scaling
+- Availability, fault tolerance, throughput, latency & scalability is high
+- A distributed DB can be of 2 types:
+  - Homogenous – copies of the main DB are distributed throughout the network
+  - Heterogenous – Network can contain completely different schemas, data models & supported by different OS but are connected via the network
 
 
