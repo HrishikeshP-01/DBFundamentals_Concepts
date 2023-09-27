@@ -26,3 +26,9 @@
 - Secure Digital (SD) cards
 - Universal Serial Bus (USB) flash drives
 - Cloud storage
+
+## Popular data storage methods
+- *Flat files* – eg: text files
+- *Spreadsheets* – excel, google sheets
+- *Databases* – MySQL, Microsoft Access
+
