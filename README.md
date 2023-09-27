@@ -32,3 +32,8 @@
 - *Spreadsheets* – excel, google sheets
 - *Databases* – MySQL, Microsoft Access
 
+## Popular DBs
+*MySQL* – owned by Oracle but has GPL license
+*Oracle DB* – one of the oldest & most reliable
+*SQL Server* – Microsoft, competitor of Oracle DB
+*Postgres* – free, open source & easy to work with
