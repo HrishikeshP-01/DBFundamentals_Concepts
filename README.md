@@ -46,3 +46,14 @@
 - Decision making is lot easier
 - Ease of use
 
+## Features of DBMS
+- Multiple users
+- Data storage – interact with data storage easily
+- Security
+- Tasks are non-technical (mostly)
+- *Duplication control* – ensures that 2 users can’t modify the same record at the same time
+- *Redundancy control* – gives us uptime reliability to a certain extent
+- *Integrity* – ensures data is accurate, consistent
+- *Metadata* – provides us data about the database
+
+
