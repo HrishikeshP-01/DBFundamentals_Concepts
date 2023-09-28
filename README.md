@@ -107,7 +107,7 @@ Objects with related values & operations can be grouped together as classes
 - Create schema for DB
 - Responsible for database design & architecture
 - Create storage structures – tables & relationships
-
+3. Application developers – build apps that interact with the DB
 
 
 
