@@ -81,6 +81,9 @@ Objects with related values & operations can be grouped together as classes
 - Links are created between data elements
 - Since the data is highly structured, they can easily be extracted and manipulated via queries that take less time
 
+## Object-oriented DB
+- Works well with OOP languages like Java, C++, C#
+- Implements OOP concepts like abstraction, encapsulation, inheritance & polymorphism
 
 
 
