@@ -76,4 +76,15 @@ Objects with related values & operations can be grouped together as classes
   - Homogenous – copies of the main DB are distributed throughout the network
   - Heterogenous – Network can contain completely different schemas, data models & supported by different OS but are connected via the network
 
+## Relational DB
+- Data is stored in the form of tables
+- Links are created between data elements
+- Since the data is highly structured, they can easily be extracted and manipulated via queries that take less time
+
+
+
+
+
+
+
 
