@@ -108,6 +108,11 @@ Objects with related values & operations can be grouped together as classes
 - Responsible for database design & architecture
 - Create storage structures – tables & relationships
 3. Application developers – build apps that interact with the DB
+4. End users – There are 4 different types of users:
+- *Sophisticated* – someone who is very familiar with the DB & knows the query language
+- *Parametric* – Not so familiar with technical knowledge of the DB & relies on UI 
+- *Casual*  - infrequently accesses the DB, could be a contractor
+- *Standalone* – people using a personal DB 
 
 
 
