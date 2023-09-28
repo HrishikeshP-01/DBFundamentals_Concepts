@@ -95,6 +95,14 @@ Objects with related values & operations can be grouped together as classes
 - *Performance* – data must be retrieved & modified in a reasonable amount of time
 - *Storage* – must have adequate storage
 
+## DBMS users
+1. DBA:
+- Database administrators are gatekeepers, controllers of the DB.
+- Oversee software & hardware requirements of DB
+- Control access to DB for users
+- Take care of day-to-day operations – monitoring, performance, etc.
+- Controlling security
+- Determining content of DB
 
 
 
