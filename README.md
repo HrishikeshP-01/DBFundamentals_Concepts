@@ -85,6 +85,15 @@ Objects with related values & operations can be grouped together as classes
 - Works well with OOP languages like Java, C++, C#
 - Implements OOP concepts like abstraction, encapsulation, inheritance & polymorphism
 
+## Characteristics of a good database
+- *Availability* - Must always be available whenever needed
+- Provide accurate, reliable & consistent data
+- *Security* – should only let authorized people to access it. Should prevent data from being corrupt or stolen.
+- *Redundancy*: 
+  - *Good redundancy* – When the DB is large & copies of our DB exist & are distributed across the network so that if one server fails, the other can take over
+  - *Bad redundancy* – On the same server, redundancy must be minimized as they take up space where we could be storing good data
+- *Performance* – data must be retrieved & modified in a reasonable amount of time
+- *Storage* – must have adequate storage
 
 
 
