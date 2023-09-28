@@ -103,7 +103,10 @@ Objects with related values & operations can be grouped together as classes
 - Take care of day-to-day operations – monitoring, performance, etc.
 - Controlling security
 - Determining content of DB
-
+2. Database designers:
+- Create schema for DB
+- Responsible for database design & architecture
+- Create storage structures – tables & relationships
 
 
 
